@@ -1,5 +1,0 @@
-import torch
-
-scalar = torch.tensor(6)
-
-print(scalar.ndim)
